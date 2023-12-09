@@ -1,0 +1,213 @@
+[
+    {
+        "id": 1,
+        "job_title": "Frontend Developer",
+        "image": "https://i.ibb.co/GJLzSgC/7127986.jpg",
+        "deadline": "2023-12-15",
+        "description": "We are looking for an experienced frontend developer .",
+        "category": "Web Development",
+        "min_price": 50000,
+        "max_price": 80000,
+        "expertise": "Intermediate",
+        "required_technologies": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "company_name": "TechCorp",
+        "location": "San Francisco, CA"
+    },
+    {
+        "id": 2,
+        "job_title": "Full Stack Developer",
+        "image": "https://i.ibb.co/5KtPr21/10798281-19362653.jpg",
+        "deadline": "2023-12-20",
+        "description": "We are finding a full stack developer for frontend and backend development.",
+        "category": "Web Development",
+        "min_price": 60000,
+        "max_price": 90000,
+        "expertise": "Advanced",
+        "required_technologies": [
+            "JavaScript",
+            "Node.js",
+            "React",
+            "MongoDB"
+        ],
+        "company_name": "CodeMasters",
+        "location": "New York, NY"
+    },
+    {
+        "id": 3,
+        "job_title": "Backend Developer",
+        "image": "https://i.ibb.co/jHXdyRn/26432583-backend-1.jpg",
+        "deadline": "2023-12-18",
+        "description": "We're seeking a backend developer to handle server-side logic and database operations.",
+        "category": "Web Development",
+        "min_price": 55000,
+        "max_price": 85000,
+        "expertise": "Intermediate",
+        "required_technologies": [
+            "Python",
+            "Django",
+            "PostgreSQL"
+        ],
+        "company_name": "ByteSolutions",
+        "location": "Seattle, WA"
+    },
+    {
+        "id": 4,
+        "job_title": "UI/UX Designer",
+        "image": "https://i.ibb.co/BsNhrNs/UI-UX-differences-rafiki.png",
+        "deadline": "2023-12-10",
+        "description": "We're looking for a talented UI/UX designer.",
+        "category": "Web Development",
+        "min_price": 45000,
+        "max_price": 70000,
+        "expertise": "Intermediate",
+        "required_technologies": [
+            "Sketch",
+            "Adobe XD",
+            "Figma"
+        ],
+        "company_name": "DesignHub",
+        "location": "Chicago, IL"
+    },
+    {
+        "id": 5,
+        "job_title": "SEO Specialist",
+        "image": "https://i.ibb.co/h8Y0xsK/28772290-7484896.jpg",
+        "deadline": "2023-11-30",
+        "description": "We are seeking an SEO specialist to optimize our website's search engine.",
+        "category": "Digital Marketing",
+        "min_price": 45000,
+        "max_price": 70000,
+        "expertise": "Intermediate",
+        "required_technologies": [
+            "Google Analytics",
+            "SEMrush",
+            "Moz"
+        ],
+        "company_name": "SEO Experts",
+        "location": "Los Angeles, CA"
+    },
+    {
+        "id": 6,
+        "job_title": "Content Marketer",
+        "image": "https://i.ibb.co/PN79qcb/11671412-13038.jpg",
+        "deadline": "2023-11-25",
+        "description": "Looking for a content marketer to create engaging and valuable content for our audience.",
+        "category": "Digital Marketing",
+        "min_price": 40000,
+        "max_price": 65000,
+        "expertise": "Intermediate",
+        "required_technologies": [
+            "Content Management Systems (e.g., WordPress)",
+            "SEO Tools"
+        ],
+        "company_name": "Content Creators",
+        "location": "Boston, MA"
+    },
+    {
+        "id": 7,
+        "job_title": "Social Media Manager",
+        "image": "https://i.ibb.co/bF7ss8Z/Social-ideas-bro.png",
+        "deadline": "2023-11-28",
+        "description": "We are looking for a social media manager to grow and engage our online community.",
+        "category": "Digital Marketing",
+        "min_price": 45000,
+        "max_price": 70000,
+        "expertise": "Intermediate",
+        "required_technologies": [
+            "Social Media Platforms (e.g., Facebook, Twitter)",
+            "Social Media Management Tools"
+        ],
+        "company_name": "Social Connect",
+        "location": "San Diego, CA"
+    },
+    {
+        "id": 8,
+        "job_title": "PPC Specialist",
+        "image": "https://i.ibb.co/fMDXHBf/22650913-6620129.jpg",
+        "deadline": "2023-12-05",
+        "description": "We're hiring a PPC specialist to manage and optimize pay-per-click advertising campaigns.",
+        "category": "Digital Marketing",
+        "min_price": 40000,
+        "max_price": 65000,
+        "expertise": "Intermediate",
+        "required_technologies": [
+            "Google Ads",
+            "Bing Ads",
+            "PPC Management Platforms"
+        ],
+        "company_name": "PPC Masters",
+        "location": "Denver, CO"
+    },
+    {
+        "id": 9,
+        "job_title": "Graphic Designer",
+        "image": "https://i.ibb.co/jT50JhR/5615666-2929369.jpg",
+        "deadline": "2023-12-05",
+        "description": "We need a creative graphic designer to produce stunning visual designs for our projects.",
+        "category": "Graphic Design",
+        "min_price": 40000,
+        "max_price": 65000,
+        "expertise": "Intermediate",
+        "required_technologies": [
+            "Adobe Creative Suite (e.g., Photoshop, Illustrator)",
+            "Typography Tools"
+        ],
+        "company_name": "Artistic Creations",
+        "location": "Austin, TX"
+    },
+    {
+        "id": 10,
+        "job_title": "Illustrator",
+        "image": "https://i.ibb.co/z2DPhMg/21744451-2103-q706-005-S-m005-c10-freelance-people-work.jpg",
+        "deadline": "2023-12-12",
+        "description": "Looking for a talented illustrator to create eye-catching visuals for our marketing materials.",
+        "category": "Graphic Design",
+        "min_price": 35000,
+        "max_price": 60000,
+        "expertise": "Intermediate",
+        "required_technologies": [
+            "Adobe Illustrator",
+            "Drawing Tablets"
+        ],
+        "company_name": "Visual Artists",
+        "location": "Portland, OR"
+    },
+    {
+        "id": 11,
+        "job_title": "Motion Graphics Designer",
+        "image": "https://i.ibb.co/PN79qcb/11671412-13038.jpg",
+        "deadline": "2023-12-08",
+        "description": "We're in need of a skilled motion graphics designer .",
+        "category": "Graphic Design",
+        "min_price": 45000,
+        "max_price": 70000,
+        "expertise": "Intermediate",
+        "required_technologies": [
+            "Adobe After Effects",
+            "3D Animation Software"
+        ],
+        "company_name": "Motion Masters",
+        "location": "San Francisco, CA"
+    },
+    {
+        "id": 12,
+        "job_title": "Brand Identity Designer",
+        "image": "https://i.ibb.co/1Rz3W7y/isometric-with-people-working-new-brand-strategy-3d-illustration-1284-63994.jpg",
+        "deadline": "2023-12-15",
+        "description": "Looking for a brand identity designer to create cohesive visual elements for our brand.",
+        "category": "Graphic Design",
+        "min_price": 45000,
+        "max_price": 70000,
+        "expertise": "Intermediate",
+        "required_technologies": [
+            "Adobe Creative Suite (e.g., Photoshop, Illustrator)",
+            "Branding Software"
+        ],
+        "company_name": "Branding Experts",
+        "location": "New York, NY"
+    }
+]
